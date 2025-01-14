@@ -46,4 +46,5 @@ To make the game unique, I added:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/devadharshini97/Galaxian-Game-computer-graphics-.git
+   
