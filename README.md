@@ -1,6 +1,4 @@
-# Galaxian-Game-computer-graphics-
-
-# Galaxian Game
+# Galaxian Game - computer graphics
 
 ## Overview
 This project is a 3D version of the classic **Galaxian** game, built using **WebGL** and **GLSL**. The goal of this assignment was to apply fundamental concepts of WebGL and computer graphics to create an engaging and functional game. Players control a spaceship to combat waves of alien enemies in a retro arcade-style experience.
