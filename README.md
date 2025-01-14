@@ -43,6 +43,13 @@ To make the game unique, I added:
 - A screencast of the gameplay is available in the `assets` folder:
   [Demo Video](./galaxian_game.mov)
 
+## Demo
+<video width="640" height="360" controls>
+  <source src="./galaxian_game.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## How to Run
 1. Clone this repository:
    ```bash
