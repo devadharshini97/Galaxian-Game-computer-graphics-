@@ -47,4 +47,6 @@ To make the game unique, I added:
 1. Clone this repository:
    ```bash
    git clone https://github.com/devadharshini97/Galaxian-Game-computer-graphics-.git
+   cd galaxian_game
+open it in vs code and click the "Go Live" to play the game.
    
