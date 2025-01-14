@@ -40,7 +40,7 @@ To make the game unique, I added:
   - The game uses a perspective projection to create a sense of depth with foreshortening effects.
 
 ## Demo
-- A screencast of the gameplay is available in the `assets` folder:
+- A screencast of the gameplay is available here:
   [Demo Video](./galaxian_game.mov)
 
 ## How to Run
