@@ -41,7 +41,7 @@ To make the game unique, I added:
 
 ## Demo
 - A screencast of the gameplay is available in the `assets` folder:
-  [Demo Video](./assets/galaxian-demo.mp4)
+  [Demo Video](./galaxian-game.mov)
 
 ## How to Run
 1. Clone this repository:
