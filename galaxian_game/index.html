@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Prog 3: Rasterization Solution</title>
+    
+    <link type="text/css" rel="stylesheet" href="rasterize.css">
+
+    <!-- Common scripts -->
+    <script type="text/javascript" src="gl-matrix.js"></script>
+
+    <!-- Theme selection script -->
+    <script type="text/javascript" src="theme_selector.js"></script>
+    
+</head>
+<body onload="showThemeSelection();">
+  <!-- Theme selection screen -->
+  <div id="themeSelectionScreen" 
+         style="display: none; width: 100vw; height: 100vh;">
+         <img src="theme.png" alt="Theme Selection" width="512" height="512">
+    </div>
+  <canvas id="myImageCanvas" width="512" height="512" style="display: none;"></canvas>
+  <canvas id="myWebGLCanvas" width="512" height="512" style="display: none;"></canvas> 
+</body>
+</html>
